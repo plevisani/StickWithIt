@@ -1,0 +1,11 @@
+body {
+	margin: 0;
+/*	width: 1440px;
+    height: 1426px;*/
+}
+div.background {
+	background: url('StickWithIt-homepage.png');
+    background-size: cover;
+    background-position: center;
+    height: 1426px;
+}
